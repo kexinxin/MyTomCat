@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tomcat-util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlParserAPIs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
